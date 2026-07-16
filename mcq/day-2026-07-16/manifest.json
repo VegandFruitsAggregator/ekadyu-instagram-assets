@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-07-16T12:26:24.007Z",
+  "type": "ekadyu-daily-mcq-carousel",
+  "date": "2026-07-16",
+  "displayDate": "16/07/26",
+  "dayNumber": "0",
+  "source": "google-sheet",
+  "shouldPost": false,
+  "reason": "Missing topic: Maths; Missing topic: Reasoning; Missing topic: Science",
+  "contentHash": "97d170e1550eee",
+  "captionPath": "day-2026-07-16/caption.txt",
+  "cards": []
+}

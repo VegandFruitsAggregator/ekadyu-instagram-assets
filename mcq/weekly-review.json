@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-07-16T12:26:24.007Z",
+  "startDate": "2026-07-16",
+  "days": 1,
+  "assetBaseUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq",
+  "summaries": [
+    {
+      "date": "2026-07-16",
+      "dayNumber": "0",
+      "status": "needs-review",
+      "questionCount": 0,
+      "missingTopics": [
+        "Maths",
+        "Reasoning",
+        "Science",
+        "GK / Defence",
+        "English",
+        "Hindi"
+      ],
+      "issues": [
+        "Missing topic: Maths",
+        "Missing topic: Reasoning",
+        "Missing topic: Science",
+        "Missing topic: GK / Defence",
+        "Missing topic: English",
+        "Missing topic: Hindi"
+      ],
+      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-16/manifest.json"
+    }
+  ]
+}
