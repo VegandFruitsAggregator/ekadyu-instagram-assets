@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-07-17T04:04:34.550Z",
+  "type": "ekadyu-daily-mcq-carousel",
+  "date": "2026-08-15",
+  "displayDate": "15/08/26",
+  "dayNumber": 29,
+  "source": "google-sheet",
+  "shouldPost": true,
+  "reason": "",
+  "contentHash": "9f64b156e08a35",
+  "captionPath": "day-2026-08-15/caption.txt",
+  "cards": [
+    {
+      "title": "Cover",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-01-cover.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-01-cover.jpg"
+    },
+    {
+      "title": "How to attempt",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-02-instructions.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-02-instructions.jpg"
+    },
+    {
+      "title": "Maths question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-03-q1-maths.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-03-q1-maths.jpg"
+    },
+    {
+      "title": "Reasoning question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-04-q2-reasoning.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-04-q2-reasoning.jpg"
+    },
+    {
+      "title": "Science question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-05-q3-science.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-05-q3-science.jpg"
+    },
+    {
+      "title": "GK / Defence question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-06-q4-gk-defence.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-06-q4-gk-defence.jpg"
+    },
+    {
+      "title": "English question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-07-q5-english.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-07-q5-english.jpg"
+    },
+    {
+      "title": "Hindi question",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-08-q6-hindi.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-08-q6-hindi.jpg"
+    },
+    {
+      "title": "Answer key",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-09-answer-key.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-09-answer-key.jpg"
+    },
+    {
+      "title": "Short solutions",
+      "generated": true,
+      "imagePath": "day-2026-08-15/slide-10-solutions.jpg",
+      "publicUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-15/slide-10-solutions.jpg"
+    }
+  ]
+}
