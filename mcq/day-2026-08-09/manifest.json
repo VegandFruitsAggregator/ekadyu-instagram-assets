@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedOn": "2026-07-17T04:51:16.743Z",
+  "generatedOn": "2026-07-17T05:16:20.455Z",
   "type": "ekadyu-daily-mcq-carousel",
   "date": "2026-08-09",
   "displayDate": "09/08/26",
@@ -8,7 +8,7 @@
   "source": "google-sheet",
   "shouldPost": true,
   "reason": "",
-  "contentHash": "0f0e624c3d93e6",
+  "contentHash": "3868b9f28df741",
   "captionPath": "day-2026-08-09/caption.txt",
   "cards": [
     {
