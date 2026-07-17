@@ -1,10 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-17T02:19:24.628Z",
+  "updatedAt": "2026-07-17T22:28:03.354Z",
   "publishedContentHashes": [
+    "f8e77df9b950b4",
     "700341c61fb615"
   ],
   "published": [
+    {
+      "contentHash": "f8e77df9b950b4",
+      "mediaId": "17879023470492653",
+      "publishedAt": "2026-07-17T22:28:03.354Z",
+      "imageUrls": [
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-01-cover.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-02-instructions.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-03-q1-maths.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-04-q2-reasoning.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-05-q3-science.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-06-q4-gk-defence.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-07-q5-english.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-08-q6-hindi.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-09-answer-key.jpg",
+        "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-07-18/slide-10-solutions.jpg"
+      ]
+    },
     {
       "contentHash": "700341c61fb615",
       "mediaId": "17883080601458977",
