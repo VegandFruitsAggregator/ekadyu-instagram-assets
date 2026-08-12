@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-07-12T08:49:43.301Z",
+  "type": "60-day-fitness-daily-carousel",
+  "day": 54,
+  "titleEn": "Jump squats + bursts",
+  "titleHi": "Jump squats + bursts",
+  "images": [
+    "challenge/day-54/slide-01-day-54-ig.jpg",
+    "challenge/day-54/slide-02-today-work-ig.jpg",
+    "challenge/day-54/slide-03-how-to-do-it-ig.jpg",
+    "challenge/day-54/slide-04-tracker-ig.jpg",
+    "challenge/day-54/slide-05-next-ig.jpg"
+  ],
+  "caption": "challenge/day-54/caption.txt"
+}

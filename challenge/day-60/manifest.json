@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-07-12T08:50:18.147Z",
+  "type": "60-day-fitness-daily-carousel",
+  "day": 60,
+  "titleEn": "1.6 km challenge",
+  "titleHi": "1.6 km challenge",
+  "images": [
+    "challenge/day-60/slide-01-day-60-ig.jpg",
+    "challenge/day-60/slide-02-today-work-ig.jpg",
+    "challenge/day-60/slide-03-how-to-do-it-ig.jpg",
+    "challenge/day-60/slide-04-tracker-ig.jpg",
+    "challenge/day-60/slide-05-next-ig.jpg"
+  ],
+  "caption": "challenge/day-60/caption.txt"
+}
