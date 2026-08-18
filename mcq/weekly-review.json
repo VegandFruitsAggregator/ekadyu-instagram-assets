@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedOn": "2026-08-18T04:33:33.021Z",
+  "generatedOn": "2026-08-18T04:36:15.750Z",
   "startDate": "2026-08-18",
   "days": 5,
-  "assetBaseUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq",
+  "assetBaseUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq",
   "summaries": [
     {
       "date": "2026-08-18",
@@ -12,7 +12,7 @@
       "questionCount": 6,
       "missingTopics": [],
       "issues": [],
-      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-18/manifest.json"
+      "publicManifestUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq/day-2026-08-18/manifest.json"
     },
     {
       "date": "2026-08-19",
@@ -21,7 +21,7 @@
       "questionCount": 6,
       "missingTopics": [],
       "issues": [],
-      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-19/manifest.json"
+      "publicManifestUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq/day-2026-08-19/manifest.json"
     },
     {
       "date": "2026-08-20",
@@ -30,7 +30,7 @@
       "questionCount": 6,
       "missingTopics": [],
       "issues": [],
-      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-20/manifest.json"
+      "publicManifestUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq/day-2026-08-20/manifest.json"
     },
     {
       "date": "2026-08-21",
@@ -39,7 +39,7 @@
       "questionCount": 6,
       "missingTopics": [],
       "issues": [],
-      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-21/manifest.json"
+      "publicManifestUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq/day-2026-08-21/manifest.json"
     },
     {
       "date": "2026-08-22",
@@ -48,7 +48,7 @@
       "questionCount": 6,
       "missingTopics": [],
       "issues": [],
-      "publicManifestUrl": "https://vegandfruitsaggregator.github.io/ekadyu-instagram-assets/mcq/day-2026-08-22/manifest.json"
+      "publicManifestUrl": "https://raw.githubusercontent.com/VegandFruitsAggregator/ekadyu-instagram-assets/main/mcq/day-2026-08-22/manifest.json"
     }
   ]
 }
